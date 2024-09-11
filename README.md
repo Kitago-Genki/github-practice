@@ -1,6 +1,3 @@
-hhjkjhhfuwanahfuie:jfioewi
-for
+#!/bin/sh
 
-hello
-A
-omdhekkkkk
+echo "Hello,World!" 
